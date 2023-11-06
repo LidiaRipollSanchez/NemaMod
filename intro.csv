@@ -1,0 +1,7 @@
+step,text
+1,Start by selecting a neuron you want to see the connections for in the <b> NEURON</b> panel.
+2,"Check the other panels to select the gene expression threshold, the diffusion threshold, the receptor-ligand affinity threshold and the network to look at. "
+3,Graphs are interactive. Use the moose to hover or zoom. Reset settings in the bottom left.
+4,The node colours indicate the different neuron types and the line styles indicate the types of neuronal communication. 
+5,Download the data for the network and the image. 
+6,That's it. Enjoy using NemaMod and don't hesitate if you have suggestions or comments. You're feedback is very much appreciated!

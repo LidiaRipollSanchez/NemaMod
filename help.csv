@@ -1,0 +1,7 @@
+step,text
+1,Select a neuron or gene to visualise network: select more than 1 to see the combination of networks
+2,Select the subset of features you want to see
+3,Use sliders to select the desired thresholds for network visualisation
+4,Refresh to see the updated network
+5,"Interact with the network and try different layouts to visualise: click to highlight selected node, long click to add more nodes to selection, navigate the network using the zoom [+, -] and the arrows"
+6,Download image or data matrix
