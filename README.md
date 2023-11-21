@@ -1,7 +1,7 @@
 # [NemaMod](https://www.nemamod.org)
 NemaMod is an application for intuitive and rapid visualisation of neuropeptide connections in C.elegans.
 
-<img width="748" alt="Screenshot 2022-11-09 at 17 25 27" src="https://user-images.githubusercontent.com/86192587/200898826-29f869e6-137e-45d5-a99d-5e8a5f7edeec.png">
+<img width="1721" alt="Screenshot 2023-11-21 at 18 57 17" src="https://github.com/LidiaRipollSanchez/NemaMod/assets/86192587/16108dae-76ad-42ee-8509-e551810c7807">
 
 Papers about RadaR available: https://doi.org/10.1101/347534
 
