@@ -4,6 +4,8 @@
 
 NemaMod is an application for intuitive and rapid visualisation of neuropeptide connections in C.elegans. The app can be freely used in [NemaMod](https://www.nemamod.org) and is stored in a Shiny server. The data shown in the app was generated for the paper [Ripoll-Sánchez et al., 2023](https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900756-0).
 
+For direclty downloading the data from the paper in csv format go to its [repository](https://github.com/LidiaRipollSanchez/Neuropeptide-Connectome.git)
+
 **Prerequisites for using NemaMod locally**
 
 NemaMod was built in R , an open source programming language using the Shiny package, a web application framework for R. Users will need to download R in order to use NemaMod and we suggest the use of RStudio. R is completely free to use. All required code and data can be found in this github repository.
