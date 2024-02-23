@@ -2,9 +2,9 @@
 
 <img width="1721" alt="Screenshot 2023-11-21 at 18 57 17" src="https://github.com/LidiaRipollSanchez/NemaMod/assets/86192587/16108dae-76ad-42ee-8509-e551810c7807">
 
-NemaMod is an application for intuitive and rapid visualisation of neuropeptide connections in C.elegans. The app can be freely used in [NemaMod](https://www.nemamod.org) and is stored in a Shiny server. The data shown in the app was generated for the paper [Ripoll-Sánchez et al., 2023](https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900756-0).
+NemaMod is an application for intuitive and rapid visualisation of neuropeptide connections in C.elegans. The app can be freely used in [NemaMod](https://www.nemamod.org) and is stored in a Shiny server. The data shown in the app was generated for the paper [Ripoll-Sánchez et al., 2023](https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900756-0). Expression data for dmsr-5 and npr-34 was updated on 02/02/2024.
 
-For direclty downloading the data from the paper in csv format go to its [repository](https://github.com/LidiaRipollSanchez/Neuropeptide-Connectome.git)
+For downloading the data from the paper in csv format go to this [repository](https://github.com/LidiaRipollSanchez/Neuropeptide-Connectome.git)
 
 **Prerequisites for using NemaMod locally**
 
